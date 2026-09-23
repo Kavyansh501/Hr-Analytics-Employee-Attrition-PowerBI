@@ -1,6 +1,9 @@
 # HR-Analytics-Employee-Attrition-PowerBI
 
 ## Dashboard Preview
+![HR Overview](HR_Overview.png)
+
+![Attrition Analysis](Attrition_Analysis.png)
 Interactive HR Analytics and Employee Attrition Dashboard built using Power BI, DAX, Power Query, and Excel.
 
 ## HR Analytics & Employee Attrition Dashboard - Power BI
